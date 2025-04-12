@@ -1,0 +1,27 @@
+[
+    {
+        "stringResourceId": "E-Waste",
+      "imageResourceId": "https://drive.google.com/uc?export=download&id=1IKrxcCKhyfCZXNHlrKwwMMoUC5-qcosC"
+    },
+    {
+      "stringResourceId": "Food Waste",
+      "imageResourceId": "https://drive.google.com/uc?export=download&id=bdIpOQuVNrGKXSoLGObR6UIYgmK3Khvt"
+    },
+    {
+      "stringResourceId": "Glass Scrap",
+      "imageResourceId": "https://drive.google.com/uc?export=download&id=1bCR8l0lrkP-tEuS98DSmKd3eLdsHjENn"
+    },
+    {
+      "stringResourceId": "Metal Scrap",
+      "imageResourceId": "https://drive.google.com/uc?export=download&id=1khxpslTv9lf6CnpXOHuwngcqpQ2Y2xBh"
+    },
+    {
+      "stringResourceId": "Paper Scrap",
+      "imageResourceId": "https://drive.google.com/uc?export=download&id=1KWJ3iD2Fp0Ja4AqGieq9-vgkSLidbLG3"
+    },
+    {
+      "stringResourceId": "Plastic Scrap",
+      "imageResourceId": "https://drive.google.com/uc?export=download&id=1L_m4hJ4rkQKvQYrH98WWKOjRutmuty0f"
+    }
+  ]
+  
